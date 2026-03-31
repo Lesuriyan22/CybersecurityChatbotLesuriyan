@@ -13,7 +13,7 @@ internal static class ResponseEngine
         (new[]{ "how are you", "how r u", "how do you do" },
             "I'm functioning perfectly and fully charged to tackle cyber threats! How can I assist you today?"),
 
-        (new[]{ "\npurpose", "what do you do", "what can you do", "why are you here" },
+        (new[]{ "purpose", "what do you do", "what can you do", "why are you here" },
             "My purpose is to educate South African citizens about cybersecurity threats and how to stay safe online. " +
             "I can help with topics like phishing, passwords, malware, safe browsing, and more!"),
 
