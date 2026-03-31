@@ -22,7 +22,7 @@ internal static class DisplayHelper
     @"       ╚██████╗   ██║   ██████╔╝███████╗██║  ██║",
     @"        ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝",
     @"                                                  ",
-    @"          ┌─────────────────────────────────────────┐",
+    @"          \n┌─────────────────────────────────────────┐",
     @"          │            SHIELD ACTIVATED             │",
     @"          │   Cybersecurity Awareness Bot v1.0      │",
     @"          │        Protecting South Africa          │",
